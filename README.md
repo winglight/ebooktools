@@ -39,4 +39,4 @@
 * issues
 * 微信公众号（失败101）
 
-![image](http://github.com/winglight/ebooktools/raw/master/libs/qrcode_wx.jpg)
+![image](https://github.com/winglight/ebooktools/blob/master/libs/qrcode_wx.jpg?raw=true)
