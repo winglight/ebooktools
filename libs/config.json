@@ -1,0 +1,8 @@
+{
+  "port": "CHANGE-TO-YOURS", //kindle推送的发送邮箱smtp服务器端口
+  "smtp": "CHANGE-TO-YOURS", //kindle推送的发送邮箱smtp服务器地址
+  "user": "CHANGE-TO-YOURS", //kindle推送的发送邮箱账号
+  "pass": "CHANGE-TO-YOURS", //kindle推送的发送邮箱密码
+  "kindle": "CHANGE-TO-YOURS", //kindle推送的目标邮箱地址
+  "output": "CHANGE-TO-YOURS" //电子书本地输出目录绝对路径（必填）
+}

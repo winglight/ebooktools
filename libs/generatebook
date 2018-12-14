@@ -1,0 +1,20 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
+var program = require('commander');
+var crawler = require('./crawler');
+
+program
+  .version('0.1.0')
+  .option('-u, --url <url>', 'Entry url of the book, on common, it\'s the contents page')
+  .option('-p, --push', 'push mobi to device')
+  .parse(process.argv);
+
+console.log('you generate an ebook with:');
+if (program.url) console.log('  - url: ' + program.url);
+if (program.url) console.log('  - p: ' + program.push);
+
+crawler.crawlTopic(program.url, function(err, msg){});
