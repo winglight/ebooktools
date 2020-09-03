@@ -23,7 +23,7 @@
     "morgan": "^1.9.1",
     "node-readability": "^3.0.0",
     "nodemailer": "^4.6.8",
-    "puppeteer": "^1.9.0",
+    "puppeteer": "^1.13.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "set-clustering": "https://github.com/deestan/set-clustering.git",
