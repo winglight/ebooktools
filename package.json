@@ -22,7 +22,7 @@
     "kindlegen": "https://github.com/winglight/kindlegen.git",
     "morgan": "^1.9.1",
     "node-readability": "^3.0.0",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "puppeteer": "^1.9.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
