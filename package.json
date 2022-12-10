@@ -17,7 +17,7 @@
     "consign": "^0.1.6",
     "cors": "^2.8.4",
     "epub-gen": "^0.0.20",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "helmet": "^3.14.0",
     "kindlegen": "https://github.com/winglight/kindlegen.git",
     "morgan": "^1.9.1",
